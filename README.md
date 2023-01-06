@@ -1,3 +1,7 @@
+<p align="center">
+
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Linas+Nutautas;Student+of+iOS+Developer" alt="Typing SVG" /></a>
 
 **`Student of iOS developer`**
@@ -24,4 +28,6 @@ As a studying iOS developer, I am skilled in the Swift programming language and 
 
 #
 
+  
+</p>
                     
